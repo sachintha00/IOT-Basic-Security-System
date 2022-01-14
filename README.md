@@ -1,7 +1,7 @@
 # IOT Base Security System😎
-simulate a basic security system using Motion sensor, Trip switch, sounder, and LED using packet tracer software
+🚀🚩simulate a basic security system using Motion sensor, Trip switch, sounder, and LED using packet tracer software
 
-# 🎈👉Implement using Python
+# 👉Implement using Python
 
 ![1](https://user-images.githubusercontent.com/80079235/149464265-5a4403a0-40db-4b96-86aa-e0015128c989.png)
 
@@ -9,7 +9,7 @@ simulate a basic security system using Motion sensor, Trip switch, sounder, and 
 
 
 
-# 🎈👉Implement using JS
+# 👉Implement using JS
 
 ![1](https://user-images.githubusercontent.com/80079235/149464336-36d0b606-3056-4ef2-b77c-feb4d67d5e7a.png)
 
